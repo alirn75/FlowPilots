@@ -1,0 +1,15 @@
+C:\xamarin\FlowPilots\FlowPilots\bin\Debug\FlowPilots.dll
+C:\xamarin\FlowPilots\FlowPilots\bin\Debug\FlowPilots.pdb
+C:\xamarin\FlowPilots\FlowPilots\bin\Debug\Xamarin.Forms.Core.dll
+C:\xamarin\FlowPilots\FlowPilots\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\xamarin\FlowPilots\FlowPilots\bin\Debug\Xamarin.Forms.Core.xml
+C:\xamarin\FlowPilots\FlowPilots\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\xamarin\FlowPilots\FlowPilots\obj\Debug\FlowPilots.csprojResolveAssemblyReference.cache
+C:\xamarin\FlowPilots\FlowPilots\obj\Debug\FlowPilots.dll
+C:\xamarin\FlowPilots\FlowPilots\obj\Debug\FlowPilots.pdb
+C:\xamarin\FlowPilots\FlowPilots\obj\Debug\MainPage.xaml.g.cs
+C:\xamarin\FlowPilots\FlowPilots\obj\Debug\ReactionPage.xaml.g.cs
+C:\xamarin\FlowPilots\FlowPilots\obj\Debug\FlowPilots.dll.mdb
+C:\xamarin\FlowPilots\FlowPilots\bin\Debug\FlowPilots.dll.mdb
+C:\xamarin\FlowPilots\FlowPilots\obj\Debug\FlowPilots.dll.mdb
+C:\xamarin\FlowPilots\FlowPilots\bin\Debug\FlowPilots.dll.mdb
